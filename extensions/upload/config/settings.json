@@ -1,0 +1,8 @@
+{
+    "provider": "cloudinary",
+    "providerOptions": {
+        "cloud_name": "dbjny7gen",
+        "api key": "714353287534794",
+        "api secret": "9w5UdClYNBhwwjpROiyyQS2QEz8"
+    }
+}
